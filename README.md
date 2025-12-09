@@ -8,7 +8,7 @@ Includes the following:
 
 I got to roughly ~1ms / timestep for 1 million particles on a Macbook Air 2025 with an M4 and 16GB of RAM. Complexity is following the expected $\mathcal{O}(n\log n)$.
 
-![Zoomed in view showing recursive structure details.](./qtreezoomed.png)
+![Zoomed in view showing recursive structure details.](./qtreeZoomed.png)
 
 Next updates
 - Post-simulation rendering. Right now, this is the easiest sanity check for the time integration.
