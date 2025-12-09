@@ -4,7 +4,7 @@ Includes the following:
 - Fast insertion / aggregation method through pointer usage
 - Parallelized nodal force calculation and update
 
-![Example Image](./images/qtree2000.png)
+![Example Image](./qtree2000.png)
 
 I got to roughly ~1ms / timestep for 1 million particles on a Macbook Air 2025 with an M4 and 16GB of RAM. Complexity is following the expected $\mathcal{O}(n\log n)$.
 
