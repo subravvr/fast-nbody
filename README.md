@@ -8,7 +8,9 @@ Includes the following:
 - Fast insertion / aggregation method through pointer usage
 - Parallelized nodal force calculation and update
 
-Example 2000-particle quadtree.\\
+Example 2000-particle quadtree.
+
+
 ![2000-particle quadtree.](./qtree2000.png)
 
 
